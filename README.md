@@ -54,18 +54,18 @@ cmake --build build --config Release
 
 ----------------------------------------------------------------
 
-### 🚀 Future Improvements
--🤖 AI opponent using Minimax
--📊 Score tracking
--🎨 Custom themes/skins
--🌀 Animations for moves & win effects
+### 🚀 Future Improvements                
+🤖 AI opponent using Minimax             
+📊 Score tracking               
+🎨 Custom themes/skins                   
+🌀 Animations for moves & win effects                
 
 ----------------------------------------------------------------
 
-### 📜 License
+### 📜 License     
 This project is licensed under the MIT License — you are free to use, modify, and distribute it.
 
 ----------------------------------------------------------------
 
-# 💡 Tip: If you want to contribute or improve this game, fork the repo, make changes, and submit a pull request!
+💡 Tip: If you want to contribute or improve this game, fork the repo, make changes, and submit a pull request!
 
