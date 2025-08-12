@@ -1,0 +1,38 @@
+# Build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Compiled object files and executables
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.lib
+*.a
+
+# IDE / editor
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.vcxproj*
+
+# macOS
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Libraries
+*.lib
+*.dll
+*.pdb
