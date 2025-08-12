@@ -15,13 +15,13 @@ Features smooth graphics, engaging sound effects, and a clean CMake build system
 ----------------------------------------------------------------
 
 ## 📂 Folder Structure
-Tictactoe_Game/
--│
--├── assets/ # Images, fonts, sounds
--├── src/ # Source code (.cpp)
--├── CMakeLists.txt # Build configuration
--├── .gitignore # Git ignored files
--└── README.md # Documentation
+Tictactoe_Game/  
+│                                 
+├── assets/ # Images, fonts, sounds             
+├── src/ # Source code (.cpp)               
+├── CMakeLists.txt # Build configuration             
+├── .gitignore # Git ignored files                    
+└── README.md # Documentation                       
 
 ----------------------------------------------------------------
 
