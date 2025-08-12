@@ -62,8 +62,9 @@ cmake --build build --config Release
 
 ----------------------------------------------------------------
 
-### 📜 License     
-This project is licensed under the MIT License — you are free to use, modify, and distribute it.
+### 📜 License
+This project is licensed under the [MIT License](LICENSE).
+
 
 ----------------------------------------------------------------
 
